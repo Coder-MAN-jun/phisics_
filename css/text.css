@@ -1,0 +1,23 @@
+h1 {
+	float: center;
+	font-size: 46px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	color: #0000FF;
+}
+
+h2 {
+	float: center;
+	font-size: 23px;
+	padding-bottom: 10px;
+	margin-left: 30px;
+	color: #F0FFFF;
+}
+
+p {
+	font-family: Roboto, sans-serif;
+	margin-left: 40px;
+	padding-bottom: 15px;
+}

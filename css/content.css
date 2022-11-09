@@ -1,0 +1,38 @@
+.img_right {
+	float: left;
+	max-width: 150px;
+	max-height: 200px;
+	border: 2px solid black;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.img_left {
+	float: left;
+	max-width: 150px;
+    max-height: 200px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.img_center {
+	float: left;
+	max-width: 150px;
+	max-height: 200px;
+	border: 2px solid black;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+.content_first {
+	display: block;
+	clear: both;
+	content: "";
+	margin-top: 20px;
+}
